@@ -1,3 +1,5 @@
-# Profile 
-- Interes
-- Profile
+# Profile
+- Avatar 
+- Bio
+- Privacy note
+- Moderation note ///
