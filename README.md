@@ -4,4 +4,4 @@
 
 # v1.0.0
 - Added login funcionality 
-- Minimun fix in Readme.md
+- Minimun fix in README.md
